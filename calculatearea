@@ -1,0 +1,7 @@
+function calculateArea(length, width) {
+  return length*width;
+}
+
+const Youthrivearea = calculateArea(10,8);
+
+console.log(Youthrivearea);
